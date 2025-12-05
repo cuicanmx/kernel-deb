@@ -1,12 +1,16 @@
 # 一键更新内核脚本
+
 ```bash
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/GengWei1997/kernel-deb/refs/heads/main/Update-kernel.sh)"
 ```
-更新内容：
+
+# 更新内容：
+```bash
 跟随主线更新到mainline:	6.18.0
 添加ufw缺失的ipv6模块
+```
 
-执行完后出现
+# 执行完后出现
 ```bash
 11. 显示/boot目录内容
 总计 83932
@@ -30,5 +34,5 @@ drwx------  3 root root     4096 11月 22 21:35 loader
 === 脚本执行完成 ===
 ```
 
-重启手机即可
+# 重启手机即可
 
