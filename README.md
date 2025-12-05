@@ -1,7 +1,7 @@
 # 一键更新内核脚本
-
+```bash
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/GengWei1997/kernel-deb/refs/heads/main/Update-kernel.sh)"
-
+```
 更新内容：
 跟随主线更新到mainline:	6.18.0
 添加ufw缺失的ipv6模块
