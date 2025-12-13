@@ -12,6 +12,10 @@ sudo bash -c "$(curl -fsSL https://ghfast.top/https://raw.githubusercontent.com/
 
 # 更新内容：
 ```bash
+2025年12月13日
+切换稳定分支stable:	6.18.1
+
+2025年12月5日
 跟随主线更新到mainline:	6.18.0
 添加ufw缺失的ipv6模块
 ```
